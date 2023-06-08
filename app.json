@@ -1,7 +1,7 @@
 {
   "name": "Wechatbot Railway",
   "description": "A Wechat bot deployed using Docker",
-  "repository": "https://github.com/lcjqyml/wechatbot-railway",
+  "repository": "https://github.com/iknow2333/wechatbot-railway",
   "env": {
     "CHATBOT_PROXY": {
       "description": "The proxy for the chatbot",
